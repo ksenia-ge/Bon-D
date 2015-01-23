@@ -2,4 +2,4 @@
 Trial repo
 
 
-I'm studying Data Science online when I should be writing my PhD dissertation.
+I'm studying Data Science and I hope it will help me in my PhD dissertation.
